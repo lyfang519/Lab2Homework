@@ -19,3 +19,4 @@ public class Exercise_01 {
 
         sc.close();
 }
+}
